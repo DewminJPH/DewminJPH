@@ -28,7 +28,7 @@ I am a **Machine Learning Engineer** with a strong foundation in **Computer Engi
 
 ### 🚀 The MLOps Workflow
 I specialize in the end-to-end lifecycle of intelligent systems:
-1. **Data Engineering:** Building distributed pipelines with **Kafka** and **Hadoop**.
+1. **Data Engineering:** Cleaning and preprocessing complex datasets using **Pandas** and **NumPy**.
 2. **Model Development:** Training DL/CNN models and fine-tuning **Generative AI** (Gemini).
 3. **Containerization:** Packaging ML environments using **Docker** for reproducibility.
 4. **CI/CD & Deployment:** Automating deployments to **AWS** using GitHub Actions to ensure seamless transitions from research to production.
