@@ -2,7 +2,7 @@
 ### **MLOps Engineer | DevOps Specialist | Computer Engineer**
 
 <p align="left">
-<img src="https://komarev.com/ghpvc/?username=UmeshGayashan&label=Profile%20views&color=0e75b6&style=flat" alt="Umesh Gayashan" />
+<img src="https://komarev.com/ghpvc/?username=Himansha Dewmin&label=Profile%20views&color=0e75b6&style=flat" alt="Himansha Dewmin" />
 </p>
 
 I am a **Machine Learning Engineer** with a strong foundation in **Computer Engineering** and a passion for **DevOps**. My expertise lies in architecting the infrastructure that powers AI: from building scalable **RESTful APIs** to automating **CI/CD pipelines** for model deployment on **AWS**. I focus on making AI reliable, scalable, and production-ready.
